@@ -1,0 +1,13 @@
+C:\Users\Home\Desktop\QR Code Generator\bin\Debug\QR Code Generator.exe.config
+C:\Users\Home\Desktop\QR Code Generator\bin\Debug\QR Code Generator.exe
+C:\Users\Home\Desktop\QR Code Generator\bin\Debug\QR Code Generator.pdb
+C:\Users\Home\Desktop\QR Code Generator\obj\Debug\QR Code Generator.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\QR Code Generator\obj\Debug\QR_Code_Generator.Form1.resources
+C:\Users\Home\Desktop\QR Code Generator\obj\Debug\QR_Code_Generator.Properties.Resources.resources
+C:\Users\Home\Desktop\QR Code Generator\obj\Debug\QR Code Generator.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\QR Code Generator\obj\Debug\QR Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\QR Code Generator\obj\Debug\QR Code Generator.exe
+C:\Users\Home\Desktop\QR Code Generator\obj\Debug\QR Code Generator.pdb
+C:\Users\Home\Desktop\QR Code Generator\bin\Debug\QRCoder.dll
+C:\Users\Home\Desktop\QR Code Generator\obj\Debug\QR_Code_Generator.Form2.resources
+C:\Users\Home\Desktop\QR Code Generator\obj\Debug\QR Code .13F663A7.Up2Date
